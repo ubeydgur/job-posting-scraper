@@ -2,6 +2,11 @@
 
 Following the tutorial of realpython.com website, scraping job postings on remote.co and writing the received information to Excel file.
 
+## Features
+- Enter the word you want to search for in the titles of job postings.
+- BeautifulSoup scrape the Title, Company, Tags, Publish Date and Link of the desired job advertisement.
+- This collected information is neatly exported to an Excel file.
+
 ## Dependencies
 
 - [Requests](https://pypi.org/project/requests/)
