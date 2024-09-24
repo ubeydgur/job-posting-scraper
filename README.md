@@ -1,6 +1,6 @@
 # Job Posting Scraper
 
-Following the tutorial of realpython.com website, scraping job postings on remote.co and writing the received information to Excel file.
+Scanning job postings on the remote.co website, classifying them according to a certain keyword, and then writing the information received into an Excel file.
 
 - Job Posting Website: [remote.com](https://remote.co/remote-jobs/developer/)
 
