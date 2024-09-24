@@ -12,7 +12,9 @@ Scanning job postings on the Remote.co website with `BeautifulSoup`, classifying
 ## Dependencies
 
 - [Requests](https://pypi.org/project/requests/)
+
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
 - [Pandas](https://pandas.pydata.org/)
 
 ## Usage
