@@ -1,6 +1,6 @@
 # Job Posting Scraper
 
-Scanning job postings on the Remote.co website with `BeautifulSoup`, classifying them according to a certain keyword, and writing the incoming information to an `Excel` file.
+Scanning job postings on the remote.co website with `BeautifulSoup`, classifying them according to a certain keyword, and writing the incoming information to an `Excel` file.
 
 - Job Posting Website: [remote.com](https://remote.co/remote-jobs/developer/)
 
