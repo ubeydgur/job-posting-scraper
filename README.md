@@ -1,12 +1,14 @@
 # Job Posting Scraper
 
-Scanning job postings on the remote.co website with `BeautifulSoup`, classifying them according to a certain keyword, and writing the incoming information to an `Excel` file.
+Scanning job postings on the remote.co website with `BeautifulSoup` and `Requests`, classifying them according to a certain keyword, and writing the incoming information to an `Excel` file.
 
 - Job Posting Website: [remote.com](https://remote.co/remote-jobs/developer/)
 
 ## Features
 - Enter the word you want to search for in the titles of job postings.
+  
 - `BeautifulSoup` scrape the Title, Company, Tags, Publish Date and Link of the desired job advertisement.
+  
 - This collected information is neatly exported to an `Excel` file.
 
 ## Dependencies
