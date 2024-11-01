@@ -49,4 +49,4 @@ for job_element in job_elements:
 d = {'Title':title_list, 'Company':company_list, 'Tags':tags_list, 'Publish Date':publish_date_list, 'Link':link_list}
 df = pd.DataFrame(d)
 
-df.to_excel("job-posting.xlsx", index=False)
+df.to_excel("data/job-posting.xlsx", index=False)
